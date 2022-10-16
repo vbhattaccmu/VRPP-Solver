@@ -1,0 +1,168 @@
+{
+   "points": [
+      {
+         "id": "Entity1",
+         "lat": 24.95,
+         "lng": 55.09,
+         "isOffloading": true,
+         "parentPointId": "AC1"
+      },
+      {
+         "id": "Entity2",
+         "lat": 23.9,
+         "lng": 53.16,
+         "isOffloading": true,
+         "parentPointId": "AC2"
+      },
+      {
+         "id": "Entity3",
+         "lat": 25.025137653808518,
+         "lng": 55.0982393028216,
+         "isOffloading": true,
+         "parentPointId": "AC1"
+      },
+      {
+         "id": "Entity4",
+         "lat": 25.1057427094043,
+         "lng": 55.17420211950113,
+         "isOffloading": true,
+         "parentPointId": "AC2"
+      },
+      {
+         "id": "Entity5",
+         "lat": 25.128027301292477,
+         "lng": 55.40456414792345,
+         "isOffloading": true,
+         "parentPointId": "AC1"
+      },
+      {
+         "id": "Entity6",
+         "lat": 25.17645081892779,
+         "lng": 55.28637059894076,
+         "isOffloading": true,
+         "parentPointId": "AC2"
+      },
+      {
+         "id": "Entity7",
+         "lat": 25.02078489164754,
+         "lng": 55.229514113467374,
+         "isOffloading": true,
+         "parentPointId": "AC1"
+      },
+      {
+         "id": "Entity8",
+         "lat": 24.90135508724142,
+         "lng": 55.243386132180945,
+         "isOffloading": true,
+         "parentPointId": "AC2"
+      },
+      {
+         "id": "Entity9",
+         "lat": 25.00273809443353,
+         "lng": 55.41489578748308,
+         "isOffloading": true,
+         "parentPointId": "AC1"
+      },
+      {
+         "id": "Entity10",
+         "lat": 25.069735363417152,
+         "lng": 55.1412319025817,
+         "isOffloading": true,
+         "parentPointId": "AC2"
+      },
+      {
+         "id": "Entity11",
+         "lat": 24.997941006864245,
+         "lng": 55.047637402389086,
+         "isOffloading": true,
+         "parentPointId": "AC1"
+      },
+      {
+         "id": "Entity12",
+         "lat": 24.934581419657903,
+         "lng": 55.13884852253293,
+         "isOffloading": true,
+         "parentPointId": "AC2"
+      },
+      {
+         "id": "Entity13",
+         "lat": 25.016245317452828,
+         "lng": 55.12399970005008,
+         "isOffloading": true,
+         "parentPointId": "AC1"
+      },
+      {
+         "id": "Entity14",
+         "lat": 25.16484844479134,
+         "lng": 55.30878207376417,
+         "isOffloading": true,
+         "parentPointId": "AC2"
+      },
+      {
+         "id": "Entity15",
+         "lat": 24.93668063960516,
+         "lng": 55.098062069246254,
+         "isOffloading": true,
+         "parentPointId": "AC1"
+      },
+      {
+         "id": "Entity16",
+         "lat": 25.060070962334663,
+         "lng": 55.16852414753934,
+         "isOffloading": true,
+         "parentPointId": "AC2"
+      },
+      {
+         "id": "Entity17",
+         "lat": 24.973591784101433,
+         "lng": 55.06621871082559,
+         "isOffloading": true,
+         "parentPointId": "AC1"
+      },
+      {
+         "id": "Entity18",
+         "lat": 24.906315374562396,
+         "lng": 55.22248236810291,
+         "isOffloading": true,
+         "parentPointId": "AC2"
+      },
+      {
+         "id": "Entity19",
+         "lat": 25.160271153839584,
+         "lng": 55.373437534844,
+         "isOffloading": true,
+         "parentPointId": "AC1"
+      },
+      {
+         "id": "Entity20",
+         "lat": 25.036435335882434,
+         "lng": 55.31997660108434,
+         "isOffloading": true,
+         "parentPointId": "AC2"
+      },
+      {
+         "id": "AC1",
+         "lat": 25.169966760399298,
+         "lng": 55.33797361242132,
+         "isOffloading": false,
+         "parentPointId": ""
+      },
+      {
+         "id": "AC2",
+         "lat": 25.119234619804637,
+         "lng": 55.32858343144892,
+         "isOffloading": false,
+         "parentPointId": ""
+      }
+   ],
+   "vehicles": [
+      {
+         "Type": "pickup_truck",
+         "Number": 2
+      }
+   ],
+   "startLocation": {
+      "Lat": 24.937166408801044,
+      "Lng": 55.21257733283741
+   }
+}
