@@ -4,7 +4,7 @@ problem with C++-11.
 - The program takes in a Sample_Input.json which describes a schema of `Point` locations on a route with their respective labels (`Pickup`: A `Point` where the vehicle   picks up goods from and `Customer`: A Point where the vehicle drops goods to.) and calculates an optimal route for all pickup locations given the total number of       vehicles. 
 - The problem uses a modification of Djikstra's algorithm to compute the routes. The final result is dumped as beautified JSON as shown in the `Sample Results` section 
   below.
-
+- This repositoy uses nlohmann-json as a dependency and can be installed through this [link](https://github.com/nlohmann/json).
 For more information on VRPP , please refer to this [link](https://core.ac.uk/download/19477982.pdf).
 
 ## Class Definition and relevant methods
