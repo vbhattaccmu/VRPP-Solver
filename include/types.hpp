@@ -20,7 +20,7 @@
 
 using namespace std;
 
-// STL priority queues does not have iterators.
+// STL priority queue does not implement iterators.
 // This workaround creates and exposes an iterable container class 
 // for the private data structure within priority queue.
 template <class T, class S, class C>
