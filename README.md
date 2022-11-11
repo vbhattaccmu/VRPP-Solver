@@ -11,7 +11,7 @@ For more information on VRPP , please refer to this [link](https://core.ac.uk/do
 
 1. **Point Class** 
    - This generic class holds the attributes of a point.Predominantly used
-     to create the queue for pickups. The following attributes are as follows.
+     to create the queue for pickups. The following attributes are as follows :-
      pointId,
      latitude,
      longitude,
