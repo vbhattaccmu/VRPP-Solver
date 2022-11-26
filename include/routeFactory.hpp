@@ -11,7 +11,7 @@ public:
 };
 
 /**
- * ConcreteRouteFactory is the frist variant of the 
+ * ConcreteRouteFactory is the first variant of the 
  * algorithm. More variants can be added here.
  */
 class ConcreteRouteFactory : public AbstractRouteFactory {
